@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=HelloBye.com&style=for-the-badge&url=https%3A%2F%2Fhellobye.net)](https://hellobye.net/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mharaby?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/mharaby)
 
-## I'm a Flutter Developer, Machine learning Expert, and iOS Developer!!
+## I'm a Flutter Developer, Machine learning Expert!!
 
 - 🔭 I just launched my first own website: [Know About Me More!][mywebsite]!
 - 🌱 I’m currently learning everything 🤣
