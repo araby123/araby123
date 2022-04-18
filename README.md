@@ -8,7 +8,7 @@
 - 🔭 I just launched my first own website: [Know About Me More!][mywebsite]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Develop more on Flutter projects with my machine learning Model
+- 🥅 2021 Goals: Develop more on Data Science projects with my machine learning Model 
 - ⚡ Fun fact: I love to play video games
 
 ### Connect with me:
